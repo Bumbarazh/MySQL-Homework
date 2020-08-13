@@ -197,4 +197,3 @@ where idClient = (
     order by num desc
     limit 1
     );
-    
